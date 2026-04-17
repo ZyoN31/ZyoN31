@@ -4,6 +4,10 @@
   <i>"I build what I once imagined"</i>
 </div>
 
+<p align="center">
+  <img src="assets/images/zyon31_banner.gif" alt="ZyoN" width="100%">
+</p>
+
 ---
 
 ### About Me
@@ -39,11 +43,13 @@ Welcome to my GitHub profile. I am a Software Developer and an Information Techn
 
 ### Featured Projects
 
-**Mytharis**
-> An interactive Roblox game currently in development. The project focuses on structured gameplay logic and dynamic user interfaces built with Lua and React.
+**AssistU**  
+> Desktop app to manage academic retakes: scheduling, student/teacher records, and reporting. *(Java, Swing + FlatLaf, SQLite/MariaDB)*  
+Repo: https://github.com/ZyoN31/AssistU
 
-**AssistU**
-> A desktop software solution designed to improve the administration of academic retakes, optimizing internal educational processes through efficient data management.
+**Juego_Preguntas**  
+> General culture quiz game for middle/high school students. *(Luau / Roblox)*  
+Repo: https://github.com/Gera-00/Juego_Preguntas
 
 ---
 
