@@ -1,12 +1,8 @@
 <div align="center" style="font-family: 'Trebuchet MS', sans-serif;">
-  <h1>Hello. I'm ZyoN!</h1>
+  <img src="assets/images/zyon31_banner.gif" alt="ZyoN" width="100%">
   <h3>Software Developer & IT Engineering Student</h3>
   <i>"I build what I once imagined"</i>
 </div>
-
-<p align="center">
-  <img src="assets/images/zyon31_banner.gif" alt="ZyoN" width="100%">
-</p>
 
 ---
 
