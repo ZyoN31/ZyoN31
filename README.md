@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Trebuchet MS', sans-serif;">
-  <img src="assets/images/zyon31_banner.gif" alt="ZyoN" width="100%">
+  <img src="assets/images/zyon31_banner_02.gif" alt="ZyoN" width="100%">
   <h3>Software Developer & IT Engineering Student</h3>
   <i>"I build what I once imagined"</i>
 </div>
